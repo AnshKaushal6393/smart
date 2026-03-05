@@ -7,3 +7,5 @@ backend/financial_advisor.db
 backend/*.db
 frontend/node_modules/
 frontend/dist/
+backend/.venv/
+*.log
